@@ -1,0 +1,48 @@
+*{
+    color: white
+
+}
+
+    body {
+        background-image: url("./img/Bgimage.jpg");
+        background-color: #cccccc;
+       }
+
+
+.title{
+    font-weight: lighter;
+    stop-color: rgb(248, 252, 252);
+    text-align: center;
+    color: whitesmoke;
+}
+.firstCaps{
+    font-size: 2em;
+    color: blue;
+}
+.indent{
+    text-align: justify;
+    font-size: 1em;
+    color:blue;
+    text-indent: 1em;
+}
+
+.noindent{
+    text-align: justify;
+    font-size: 1em;
+    color:rebeccapurple;
+    text-indent: 0em;
+
+}
+h2{
+    text-transform: capitalize;
+    text-emphasis:unset;
+}
+h3{
+    text-justify: inter-cluster;
+}
+#car1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
